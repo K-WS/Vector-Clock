@@ -1,0 +1,6 @@
+You can get P_1 etc orders based on arrays they could be placed in?
+
+Which won't really work with arrows.
+...
+
+But you can get the general ordering based on their x coordinate
